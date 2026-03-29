@@ -17,6 +17,7 @@ def finding_duplicates(f):
     return duplicates
 
 #high frequent element in list using dictionary
+#reusing the dictionary
 def most_frequent(f):
     max_count=0
     high_frequent_element=0
@@ -27,6 +28,7 @@ def most_frequent(f):
     return high_frequent_element
 
 #low frequent element in list using dictionary
+#reusing the dictionary f
 def least_frequent(f):
     least_count=999999   
     low_frequent_element=0

@@ -13,6 +13,12 @@ Functions in this program:
 
 This program helped me understand how dictionary works and how it can be used in list problems.
 
+This is a basic level of this project
+
+It may crash when user selects option 2 without option 1
+
+This will be rectified later
+
 Language used:
 Python
 

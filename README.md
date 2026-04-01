@@ -17,6 +17,8 @@ This is a basic level of this project
 
 It may crash when user selects option 2 without option 1
 
+More functions using dictionary will be addded later and prevent crashs
+
 This will be rectified later
 
 Language used:
